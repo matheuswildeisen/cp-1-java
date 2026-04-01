@@ -3,9 +3,13 @@
 # Participantes: 
 
 Gabriel Ciriaco - RM: 564880
+
 Mariana Souza - RM: 562353
+
 Vinicius Mafra Paiva - RM: 565916
+
 Matheus von koss wildeise - RM: 561539
+
 Eduarda de Castro Coutinho dos Santos -  RM: 562184 
 
 ## Descrição do Projeto
