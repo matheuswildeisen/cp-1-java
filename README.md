@@ -1,5 +1,13 @@
 # CP - 01 Java
 
+# Participantes: 
+
+Gabriel Ciriaco - RM: 564880
+Mariana Souza - RM: 562353
+Vinicius Mafra Paiva - RM: 565916
+Matheus von koss wildeise - RM: 561539
+Eduarda de Castro Coutinho dos Santos -  RM: 562184 
+
 ## Descrição do Projeto
 
 O CP - 01 Java é uma aplicação Java simples projetada para gerenciar colaboradores e recursos dentro de uma organização, bem como o processo de alocação e devolução desses recursos. Ele permite o cadastro de funcionários, o registro de diversos tipos de recursos (como notebooks, monitores, celulares, etc.) e a associação desses recursos aos colaboradores. O sistema também inclui funcionalidades para promover colaboradores, calcular o custo total de recursos alocados por colaborador e gerar relatórios gerais sobre o estado do sistema.
